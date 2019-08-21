@@ -26,3 +26,9 @@ misc
 
     $ grep -nE 'XXX|TODO' st.c
 
+To investigate (giao)
+---------------------
+* tic -sx st.info" raises errors/warnings:
+  - "st.info", line 192, col 11, terminal 'st': expected string-type for Se, have boolean
+  - "st.info", line 193, col 11, terminal 'st': expected string-type for Ss, have boolean
+
