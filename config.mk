@@ -1,5 +1,5 @@
 # st version
-VERSION = 0.8.2-Giao
+VERSION = 0.8.2-Giao-v1.0
 
 # Customize below to fit your system
 
