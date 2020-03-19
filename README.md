@@ -1,9 +1,9 @@
-My st
+# My st with patches
 =====
 
 git@github.com:giao/st_from_suckless.git
 
-# st.info
+## st.info
 
 in section :
 
